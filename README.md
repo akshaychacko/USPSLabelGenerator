@@ -1,2 +1,2 @@
 # USPSLabelGenerator
-A front-end USPS Label Generator using EasyPost API
+A front-end web USPS Label Generator using EasyPost API
